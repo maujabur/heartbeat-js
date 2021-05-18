@@ -16,7 +16,7 @@ If you are interested in the specifics, feel free to have a read of my publicati
 
 ## Demo
 
-Test the live demo directly in your browser: [Demo](https://prouast.github.io/heartbeat-js/)
+Test the live demo directly in your browser: [Demo](https://maujabur.github.io/heartbeat-js/)
 
 Currently, tracking is disabled.
 Works best if there is no subject motion.
